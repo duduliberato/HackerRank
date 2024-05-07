@@ -1,4 +1,6 @@
-# HackerRank ![image](https://github.com/duduliberato/HackerRank/assets/129089889/3c8e70e7-6c7a-4152-a8ed-3c30ea9934dc)
+# HackerRank 
+
+![image](https://github.com/duduliberato/HackerRank/assets/129089889/3c8e70e7-6c7a-4152-a8ed-3c30ea9934dc)
 
 
 [![HackerRank](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-l-ba774b209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9W2xDkrrSeeQqL8gFbY1Jw%3D%3D)
