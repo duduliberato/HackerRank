@@ -1,4 +1,5 @@
-# HackerRank <p align="center">
+# HackerRank 
+<p align="center">
   <img src="https://github.com/duduliberato/HackerRank/assets/129089889/3c8e70e7-6c7a-4152-a8ed-3c30ea9934dc" height="150">
 </p>
 
