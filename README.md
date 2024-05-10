@@ -8,8 +8,8 @@
 
 Hey, it seems you have interest in programming. Thank you for your interest. I am willing to show you my codes in this part! 
 
-Currently, I am working more with these languages:
+Currently, I know how to program in these languages:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50">
-          
-          
+
+However due to the Eletrobras Furnas Research Project at the Oil and Gas Laboratory, to evaluate the cost of Electrical Flexibility, I am using much more Python and MATLAB to perform my tasks.
