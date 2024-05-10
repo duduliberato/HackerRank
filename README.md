@@ -3,7 +3,7 @@
   <img src="https://github.com/duduliberato/HackerRank/assets/129089889/3c8e70e7-6c7a-4152-a8ed-3c30ea9934dc" height="150">
 </p>
 
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)(https://www.hackerrank.com/profile/eduardo_nogueir1)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/eduardo_nogueir1)
 
 Hey, it seems you have interest in programming. Thank you for your interest. I am willing to show you my codes in this part! 
 
