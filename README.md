@@ -13,6 +13,10 @@ Currently, I know how to program in these languages:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50">
 </p>
 
-Usually, I perform my tasks using Visual Studio Code (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="25" height="25">) or Google Colab (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="25" height="25">), VS Co
+Usually, I perform my tasks using Visual Studio Code (VS Code), Google Colab, Linux Terminal, and Windows PowerShell.
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50" height="50">
+</p>
 
 However due to the Eletrobras Furnas Research Project at the Oil and Gas Laboratory, to evaluate the cost of Electrical Flexibility, I am using much more Python and MATLAB to perform my tasks.
