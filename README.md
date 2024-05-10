@@ -26,4 +26,10 @@ Usually, I perform my tasks using Visual Studio Code (VS Code), Google Colab, Li
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50" height="50">
 </p>
 
+Besides this programming part, many times I used the MySQL Software to perform soma data analysis.
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"> 
+</p>         
+
 However due to the Eletrobras Furnas Research Project at the Oil and Gas Laboratory, to evaluate the cost of Electrical Flexibility, I am using much more Python and MATLAB to perform my tasks.
